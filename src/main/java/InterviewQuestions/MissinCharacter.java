@@ -9,7 +9,7 @@ public class MissinCharacter {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 String[] strArr = {"B","G"};
+		 String[] strArr = {"BA","GD"};
 	        List<String> missingStrings = new ArrayList<>();
 
 	        for (int i = 0; i < strArr.length - 1; i++) {
