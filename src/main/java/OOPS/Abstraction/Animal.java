@@ -1,4 +1,4 @@
-package OOPS.Abstract;
+package OOPS.Abstraction;
 
 abstract class Animal {
     // Abstract method (no body)
